@@ -22,4 +22,4 @@ Colección de proyectos creados con Claude Code.
 
 | Proyecto | Descripción |
 |----------|-------------|
-| _(ninguno todavía)_ | |
+| [lista-de-tareas](projects/lista-de-tareas) | Lista de tareas por línea de comandos en Python |
